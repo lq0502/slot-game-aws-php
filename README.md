@@ -27,11 +27,20 @@
 
 ## スクリーンショット
 
-![ログイン画面](images/login.png)
-![ログイン画面](images/login.png)
-![ログイン画面](images/login.png)
-![ログイン画面](images/login.png)
-![ログイン画面](images/login.png)
+#### ログイン
+![ログイン](images/login.png)
+
+#### 新規登録
+![新規登録](images/register.png)
+
+#### ゲーム
+![ゲーム](images/gameplay.png)
+
+#### ランキング
+![ランキング](images/ranking.png)
+
+#### AWS稼働状況
+![AWS稼働状況](images/aws_running.png)
 
 ---
 
