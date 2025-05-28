@@ -27,11 +27,11 @@
 
 ## スクリーンショット
 
-![ログイン画面](images/Login.png)
-- スロットプレイ画面
-- 一等当選の演出
-- ランキング画面
-- AWS EC2 上の動作画面（IPマスキング済）
+![ログイン画面](images/login.png)
+![ログイン画面](images/login.png)
+![ログイン画面](images/login.png)
+![ログイン画面](images/login.png)
+![ログイン画面](images/login.png)
 
 ---
 
